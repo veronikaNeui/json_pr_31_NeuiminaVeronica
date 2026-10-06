@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JSON_Neuimina</string>
+    <string name="name">Название товара</string>
+    <string name="price">Цена</string>
+    <string name="tags">Теги (через запятую)</string>
+    <string name="convertation">JSON</string>
+</resources>
